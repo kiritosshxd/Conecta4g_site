@@ -1,6 +1,6 @@
 {
-  "Version": "1.0.1",
-  "ReleaseNotes": "",
+  "Version": "1.0.2",
+  "ReleaseNotes": "TESTE UPDATE ONLINE",
   "UrlUpdate": "https://kiritosshxd.github.io/Conecta4g_site/UrlUpdate",
   "Sms": "https://kiritosshxd.github.io/Conecta4g_site/UrlSms",
   "EmailFeedback": "kiritosshxd5733@gmail.com",
@@ -25,7 +25,7 @@
   ],
   "Servers": [
     {
-      "Name": "CONECTA4G | PLUS",
+      "Name": "CHECK | PLUS",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "premium01.conecta4g.xyz",
