@@ -1,3 +1,14 @@
+Obs: Para adiconar mais servidores, portas udp, payload,etc.. basta seguir o esquema abaixo.
+No modo Direct ultilize o ProxyPort para definir a porta do servidor SSH.
+Vocês podem usar a tag [app_host] para ultilizar o servidor ssh... pode ser usado tanto na payload, sni, proxyip, tls_ip,etc.
+O tls_ip é usado somente no modo Pay + Ssl para definir o ip do servidor ssh.
+Para selecionar o modo de conexao das payloads pasta definir no Info, siga o esquma abaixo.
+Proxy - http proxy
+Direct - SSH Direct
+Ssl - SSH/ssl (stunnel)
+Tlsws - Pay + SSl
+
+
 {
   "Version": "1.0.1",
   "ReleaseNotes": "",
